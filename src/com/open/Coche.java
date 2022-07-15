@@ -1,7 +1,7 @@
 package com.open;
 
 public class Coche {
-	private int puertas=0;
+	private int puertas=1;
 	
 	
 	
